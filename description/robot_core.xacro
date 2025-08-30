@@ -150,5 +150,5 @@
      <gazebo reference="caster_wheel">
         <material> Gazebo/Black</material>
     </gazebo>
-
+ 
 </robot>
